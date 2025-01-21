@@ -1,4 +1,4 @@
-# 自定义终端工具
+# helloterminal
 
 这是一个基于 Go 语言开发的自定义终端工具，除了提供传统的终端功能外，还支持命令推荐、错误调试指导、AI 预测命令等智能功能。目标是提升命令行使用的效率和简便性，同时让用户体验更智能化的交互方式。
 
@@ -48,5 +48,5 @@
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/yourusername/custom-terminal-tool.git
-   cd custom-terminal-tool
+   git clone https://github.com/2003GJZ/helloterminal.git
+   cd helloterminal
