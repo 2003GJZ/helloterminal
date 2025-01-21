@@ -1,0 +1,23 @@
+# 终端基本配置
+terminal:
+  prompt: ">>> "
+  history_file: "~/.terminalplus_history"
+  max_history: 1000
+
+# AI配置
+ai:
+  enabled: true
+  provider: "openai"
+  api_key: ""
+  model: "gpt-3.5-turbo"
+
+# 命令推荐配置
+recommendations:
+  enabled: true
+  max_suggestions: 5
+  blacklist: []
+
+# 错误处理配置
+error_handling:
+  ai_suggestions: true
+  show_debug_info: false 
